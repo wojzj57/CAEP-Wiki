@@ -15,7 +15,7 @@
     * [1.7 特殊牌照](fa-tiao/che-liang-fa/che-liang-deng-ji-ji-chan-quan-zheng-ming/1.7-te-shu-pai-zhao.md)
     * [1.8 标签和贴纸](fa-tiao/che-liang-fa/che-liang-deng-ji-ji-chan-quan-zheng-ming/1.8-biao-qian-he-tie-zhi.md)
     * [1.9 交还注册文件和牌照](fa-tiao/che-liang-fa/che-liang-deng-ji-ji-chan-quan-zheng-ming/1.9-jiao-huan-zhu-ce-wen-jian-he-pai-zhao.md)
-    * [1.10 文件的携带](fa-tiao/che-liang-fa/che-liang-deng-ji-ji-chan-quan-zheng-ming/1.9-jiao-huan-zhu-ce-wen-jian-he-pai-zhao-1.md)
+    * [1.10 文件的携带](fa-tiao/che-liang-fa/che-liang-deng-ji-ji-chan-quan-zheng-ming/1.10-wen-jian-de-xie-dai.md)
 
 ## Policies
 
