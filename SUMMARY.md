@@ -2,6 +2,12 @@
 
 * [👋 Welcome!](README.md)
 
+## 规定
+
+* [🎮 服务器](gui-ding/fu-wu-qi.md)
+* [👮 PD](gui-ding/pd.md)
+* [🧑🚒 FD](gui-ding/fd.md)
+
 ## 法条
 
 * [👨⚖ 刑法](fa-tiao/xing-fa/README.md)
@@ -130,6 +136,6 @@
     * [6.1 基础设备](fa-tiao/che-liang-fa/che-liang-she-bei/6.1-ji-chu-she-bei.md)
     * [6.2 特殊设备](fa-tiao/che-liang-fa/che-liang-she-bei/6.2-te-shu-she-bei.md)
 
-## Policies
+## Copy of 规定
 
-* [😅 Requesting Time Off](policies/requesting-time-off.md)
+* [😅 Requesting Time Off](copy-of-gui-ding/requesting-time-off.md)
