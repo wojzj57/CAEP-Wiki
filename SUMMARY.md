@@ -2,10 +2,18 @@
 
 * [👋 Welcome!](README.md)
 
+## 部门
+
+* [LAPD](bu-men/lapd.md)
+* [LASD](bu-men/lasd.md)
+
 ## 规定
 
-* [🎮 服务器](gui-ding/fu-wu-qi.md)
-* [👮 PD](gui-ding/pd.md)
+* [🎮 服务器](policies/requesting-time-off.md)
+* [👮 PD](gui-ding/pd/README.md)
+  * [车辆](gui-ding/pd/che-liang/README.md)
+    * [警用车辆分配](gui-ding/pd/che-liang/jing-yong-che-liang-fen-pei.md)
+    * [警用车辆规范](gui-ding/pd/che-liang/jing-yong-che-liang-gui-fan.md)
 * [🧑🚒 FD](gui-ding/fd.md)
 
 ## 法条
@@ -135,7 +143,3 @@
   * [车辆设备](fa-tiao/che-liang-fa/che-liang-she-bei/README.md)
     * [6.1 基础设备](fa-tiao/che-liang-fa/che-liang-she-bei/6.1-ji-chu-she-bei.md)
     * [6.2 特殊设备](fa-tiao/che-liang-fa/che-liang-she-bei/6.2-te-shu-she-bei.md)
-
-## Copy of 规定
-
-* [😅 Requesting Time Off](copy-of-gui-ding/requesting-time-off.md)
