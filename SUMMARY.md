@@ -14,6 +14,8 @@
   * [车辆](gui-ding/pd/che-liang/README.md)
     * [警用车辆分配](gui-ding/pd/che-liang/jing-yong-che-liang-fen-pei.md)
     * [警用车辆规范](gui-ding/pd/che-liang/jing-yong-che-liang-gui-fan.md)
+  * [部门](gui-ding/pd/bu-men/README.md)
+    * [警员升职流程](gui-ding/pd/bu-men/jing-yuan-sheng-zhi-liu-cheng.md)
 * [🧑🚒 FD](gui-ding/fd.md)
 
 ## 法条
