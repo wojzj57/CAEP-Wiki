@@ -4,8 +4,17 @@
 
 ## 部门
 
-* [LAPD](bu-men/lapd.md)
+* [部门架构 划分](bu-men/bu-men-jia-gou-hua-fen.md)
+* [LAPD](bu-men/lapd/README.md)
+  * [Metro](bu-men/lapd/metro.md)
+  * [Traffic](bu-men/lapd/traffic.md)
+  * [Detective Bureau](bu-men/lapd/detective-bureau.md)
+  * [Air Support Division](bu-men/lapd/air-support-division.md)
 * [LASD](bu-men/lasd.md)
+* [CHP](bu-men/chp/README.md)
+  * [Homeland Security](bu-men/chp/homeland-security.md)
+  * [Ranger](bu-men/chp/ranger.md)
+* [LAFD](bu-men/lafd.md)
 
 ## 规定
 
