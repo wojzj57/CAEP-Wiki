@@ -4,7 +4,7 @@
 
 ## 部门
 
-* [部门架构 划分](bu-men/bu-men-jia-gou-hua-fen.md)
+* [部门架构划分](bu-men/bu-men-jia-gou-hua-fen.md)
 * [LAPD](bu-men/lapd/README.md)
   * [Metro](bu-men/lapd/metro.md)
   * [Traffic](bu-men/lapd/traffic.md)
